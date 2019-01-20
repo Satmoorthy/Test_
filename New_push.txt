@@ -1,1 +1,2 @@
 git push https://github.com/Satmoorthy/Test_.git New1
+Now this file is amended in local repo which will be pushed into Github
